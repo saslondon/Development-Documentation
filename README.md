@@ -24,3 +24,31 @@ With this in mind here are the initial two task lists for each new build.
 - W3C Validation
 - Brightcove integration
 - Image optimisation
+
+
+###Deployment
+
+##Umbraco
+- If using Umbraco Contour 
+  - remove all test data is deleted
+  - make sure the correct email addresses are in the Contour workflow
+  - send final test emails
+- Change umbracoSettings.config 'from' email address - for generated emails
+- Make sure the 'install' folder has been removed
+- Make sure the 'templates' folder has been removed
+- Make sure RSS feeds are functioning
+- Make sure Google Sitemap is functioning
+- Make sure an Umbraco Licence for the live domain has been created
+- If Multi-language
+  - Ensure live url's are added to the 'Manage hostname's' dialog
+
+##General
+- Make sure SMTP server details are correct and functioning
+- If using Brightcove
+  - Ensure Brightcove domains are set
+  - Make sure any links to skins are pointing to the live server
+  - Make sure any links to captions are pointing to the live server
+- Remove SVN bindings/files from 'live package'
+- Finalise Labs Documentation
+- Make sure any API keys (Google maps, Twitter etc.) are created for the live domain.
+- Link check for any dev or staging url's.
