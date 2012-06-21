@@ -24,6 +24,7 @@ With this in mind here are the initial two task lists for each new build.
 - W3C Validation
 - Brightcove integration
 - Image optimisation
+- Abide to html/css/javascript/c#/xslt/umbraco style guide (needs to be defined explicitely)
 
 ##Deployment
 
