@@ -24,7 +24,6 @@ With this in mind here are the initial two task lists for each new build.
 - W3C Validation
 - Brightcove integration
 - Image optimisation
-- Test
 
 ##Deployment
 
