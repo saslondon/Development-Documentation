@@ -41,6 +41,8 @@ With this in mind here are the initial two task lists for each new build.
 - Make sure an Umbraco Licence for the live domain has been created
 - If Multi-language
   - Ensure live url's are added to the 'Manage hostname's' dialog
+- Change web.config -> system.web -> customErrors mode to "On"
+- Change web.config -> remove compilation debug attribute
 
 ###General
 - Make sure SMTP server details are correct and functioning
