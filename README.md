@@ -10,7 +10,7 @@ The aim of this respository is to house a collection of files that can be added 
 The aim of this process is to ensure, given the time constraints of a large number of projects we work on, that the final deliverable to the client is of the highest possible quality. 
 With this in mind here are the initial two task lists for each new build. 
 
-###Continuous Development Tasks
+##Continuous Development Tasks
 
 - Cross browser testing
 - Print style sheet
@@ -26,9 +26,9 @@ With this in mind here are the initial two task lists for each new build.
 - Image optimisation
 
 
-###Deployment
+##Deployment
 
-##Umbraco
+###Umbraco
 - If using Umbraco Contour 
   - remove all test data is deleted
   - make sure the correct email addresses are in the Contour workflow
@@ -42,7 +42,7 @@ With this in mind here are the initial two task lists for each new build.
 - If Multi-language
   - Ensure live url's are added to the 'Manage hostname's' dialog
 
-##General
+###General
 - Make sure SMTP server details are correct and functioning
 - If using Brightcove
   - Ensure Brightcove domains are set
