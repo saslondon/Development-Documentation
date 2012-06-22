@@ -54,3 +54,4 @@ With this in mind here are the initial two task lists for each new build.
 - Finalise Labs Documentation
 - Make sure any API keys (Google maps, Twitter etc.) are created for the live domain.
 - Link check for any dev or staging url's.
+- Setup Google Webmasters account for the live url and add verification file.
