@@ -25,6 +25,10 @@ With this in mind here are the initial two task lists for each new build.
 - Brightcove integration
 - Image optimisation
 - Abide to html/css/javascript/c#/xslt/umbraco style guide (needs to be defined explicitely)
+- SVN
+  - Commit at least once a day during the build phase
+  - Commit after every fix during bug fix phase
+  - Use good commit comments (needs a style guide for this!)
 
 ##Deployment
 
