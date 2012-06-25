@@ -29,12 +29,13 @@ With this in mind here are the initial two task lists for each new build.
   - Commit at least once a day during the build phase
   - Commit after every fix during bug fix phase
   - Use good commit comments (needs a style guide for this!)
+- Complete weekly code review
 
 ##Deployment
 
 ###Umbraco
 - If using Umbraco Contour 
-  - remove all test data is deleted
+  - remove all test data
   - make sure the correct email addresses are in the Contour workflow
   - send final test emails
 - Change umbracoSettings.config 'from' email address - for generated emails
@@ -55,7 +56,16 @@ With this in mind here are the initial two task lists for each new build.
   - Make sure any links to skins are pointing to the live server
   - Make sure any links to captions are pointing to the live server
 - Remove SVN bindings/files from 'live package'
-- Finalise Labs Documentation
 - Make sure any API keys (Google maps, Twitter etc.) are created for the live domain.
 - Link check for any dev or staging url's.
 - Setup Google Webmasters account for the live url and add verification file.
+- Robots.txt file generated and accurate
+- Google Analytics installed and working
+- Webfont domain permissions correct for live site
+- CSS and JS compression
+- Bug tracker complete
+- Speedcheck the site
+- Finalise Labs Documentation
+
+##Finally
+After all this has been completed email the project manager to say that the site has been signed off as complete and built to the best of our ability.
