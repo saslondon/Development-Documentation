@@ -29,7 +29,7 @@ With this in mind here are the initial two task lists for each new build.
   - Commit at least once a day during the build phase
   - Commit after every fix during bug fix phase
   - Use good commit comments (needs a style guide for this!)
-- Complete weekly code review
+- Complete weekly code review with a peer
 
 ##Deployment
 
