@@ -28,10 +28,26 @@ With this in mind here are the initial two task lists for each new build.
 - SVN
   - Commit at least once a day during the build phase
   - Commit after every fix during bug fix phase
-  - Use good commit comments (needs a style guide for this!)
+  - Use good commit comments (see CommitMessages file)
 - Complete weekly code review with a peer
 
 ##Deployment
+
+- Clear logs table
+- Backup & Clear SQL Database
+- Publish Entire Site
+- Rebuild Umbraco Index
+- Rebuild Search Index
+- Delete Unused Admins
+- Performance Testing
+- Site Certificate
+- Rebuild Site Cache
+- Recycle Bin empty
+- Folders Clean Up
+- Cull Historical Versions
+- Umbraco Check Error Log
+- 301 Redirect
+- Vanity Url Setup
 
 ###Umbraco
 - If using Umbraco Contour 
