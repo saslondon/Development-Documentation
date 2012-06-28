@@ -48,6 +48,8 @@ With this in mind here are the initial two task lists for each new build.
 - Umbraco Check Error Log
 - 301 Redirect
 - Vanity Url Setup
+- Make sure javacript console.log's are removed and/or switched off
+- Print a few test pages to make sure the print stylesheet is working as expected
 
 ###Umbraco
 - If using Umbraco Contour 
