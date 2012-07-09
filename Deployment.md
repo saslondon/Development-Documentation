@@ -50,6 +50,7 @@ With this in mind here are the initial two task lists for each new build.
 - Vanity Url Setup
 - Make sure javacript console.log's are removed and/or switched off
 - Print a few test pages to make sure the print stylesheet is working as expected
+- On launch - Backup db, commit to svn and then create and SVN tag for the release
 
 ###Umbraco
 - If using Umbraco Contour 
